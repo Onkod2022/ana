@@ -1,0 +1,1 @@
+web: gunicorn Agoomaha.wsgi --log-file -
